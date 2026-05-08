@@ -11,3 +11,6 @@ desktop.ini
 # Blender
 *.blend1
 *.blend2
+
+# Large models (>100MB, use Git LFS or download separately)
+models/niumapartygame.glb
